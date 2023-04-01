@@ -38,7 +38,7 @@ body{
  display: grid;
  grid-template-columns: 1fr 2fr ;
  padding: 40px;
- padding-bottom: 0;
+ padding-bottom: 80;
 }
 .container .top .imgCV
 {
